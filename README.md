@@ -10,10 +10,8 @@ A reusable skill for turning Mudi product footage, reference videos, and adverti
 
 ## Use it
 
-Choose **MUDI video production （create by GPT）** from the skill picker in a new chat. Supply the raw clips with original sound, the product name, your brief, and any reference video, guides, or approved copy. An example request follows.
+Choose **MUDI video production （create by GPT）** from the skill picker in a new chat. Open [PROMPT.md](mudi-video-production-create-by-gpt/PROMPT.md), fill in the brief, and paste the prompt with your footage. The same file is available in the installed skill’s **Skill files** list. It also includes a short follow-up to send after approving the script.
 
-> Review this Pink Bunny footage and reference. Build one 9:16 Mudi ad around 35 seconds. Draft the English narration for approval, then assemble the editable CapCut timeline with separate narration, music, captions, and bead-contact sound. Leave the timeline open for my review before exporting.
-
-An editable CapCut deliverable requires an active environment that can access the footage and operate CapCut. The same skill can prepare copy and an edit plan in a session without CapCut access. The package contains instructions and display metadata.
+An editable CapCut deliverable requires an active environment that can access the footage and operate CapCut. The same skill can prepare copy and an edit plan in a session without CapCut access. The package contains the skill instructions, copyable prompt, and display metadata.
 
 [Read the skill instructions](mudi-video-production-create-by-gpt/SKILL.md) · [OpenAI’s Skills guide](https://help.openai.com/en/articles/20001066-skills-in-chatgpt)

@@ -5,6 +5,8 @@ description: Write English Mudi short-form ad copy and turn raw product footage 
 
 # MUDI video production （create by GPT）
 
+For a new video brief, open [PROMPT.md](PROMPT.md) for the copyable request and script-approval follow-up.
+
 ## Intake and references
 
 - Start from the supplied footage, current campaign brief, product facts, approved copy, reference videos and guides. Locate source files by name in the supplied folder. In the original package, `pink` is Pink Bunny, `grey` is Moon Egg, and `1105 (3)  成品.mov` is the finished reference. The two guides are `mudi_video_ads_editing_skill_v1.md` and `mudi_black_friday_video_ads_skill_v1.md`. Read the latest supplied versions even when the filenames still end in `v1`.
