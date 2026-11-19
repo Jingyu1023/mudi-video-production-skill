@@ -1,0 +1,4 @@
+interface:
+  display_name: "MUDI video production （create by GPT）"
+  short_description: "Write Mudi ad copy and finish editable CapCut videos"
+  default_prompt: "Use $mudi-video-production-create-by-gpt to review my Mudi footage and guides, write the English ad script, and build the approved cut in CapCut."
